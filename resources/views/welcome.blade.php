@@ -6,6 +6,7 @@
 <body>
 	<center>
 	<h1>Welcome to Scholarshipseeker</h1>
+	<h2>hello world</h2>
 
 	@if( ! Auth::check())
 		<h3><a href="/registration-form">Sign up</a>&nbsp&nbsp|&nbsp&nbsp<a href="/login-form">Login</a></h3>

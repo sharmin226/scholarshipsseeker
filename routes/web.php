@@ -1,6 +1,6 @@
 <?php
-// Route::get('/join','JoinController@create');
-// Route::post('/join','JoinController@store');
+
+
 // show a sign up form
 //Route::get('show-signup-form','JoinController@showSignupForm');
 // take sign up form data and store into db
