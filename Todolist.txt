@@ -1,0 +1,13 @@
+/**  ScholarshipSeeker.com  **/
+
+1. Anyone can see list of scholarships..............DONE
+2. Anyone can see single scholarship..............DONE
+3. Visitor can sign up..............DONE
+4. User can login..............DONE
+5. Logged in user can logout
+6. Logged in user can have profile
+7. Logged in user can add new scholarship..............DONE
+8. Logged in user can edit his/her own scholarship
+9. Logged in user can delete his/her own scholarship
+10. A scholarship can have many categories...............DONE
+11. A category can have many scholarships...............DONE
