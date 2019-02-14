@@ -14,7 +14,8 @@
 Route::post('store-post-into-db','JoinController@storePostDB');*/
 
 /*Home page*/
-Route::get('home-page','PostController@homePage')->name('home');
+Route::get('/','PostController@homePage')->name('home');
+Route::get('home-page','PostController@homePage')->name('home-page');
 /*Search by category*/
 Route::get('search-by-country','PostController@searchbyCountry');
 Route::get('search-by-country/{country}','PostController@getScholarshipsByCountry');
